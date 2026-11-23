@@ -1,6 +1,5 @@
-## Hey there
-- I’m tryna to learn C and post some my projects
-- Open to collaborate 
+## Well hello
+- Here u can see some of my projects and stuff
 <!--
 
 -->
